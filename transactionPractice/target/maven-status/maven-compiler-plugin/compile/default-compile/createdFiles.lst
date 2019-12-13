@@ -1,0 +1,9 @@
+com\example\configuration\MyConfiguration.class
+com\example\controller\MainController.class
+com\example\model\Address.class
+com\example\service\EmployeeService.class
+com\example\model\Employee.class
+com\example\repository\AddressRepository.class
+com\example\repository\EmployeeRepository.class
+com\example\service\AddressService.class
+com\example\transactionPractice\TransactionPracticeApplication.class

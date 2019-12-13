@@ -1,0 +1,6 @@
+com\springsecurity\mysqldb\SecurityWithMySql\ServletInitializer.class
+com\springsecurity\mysqldb\SecurityWithMySql\service\MyUserDetailService.class
+com\springsecurity\mysqldb\SecurityWithMySql\config\ApplicationSecurity.class
+com\springsecurity\mysqldb\SecurityWithMySql\SecurityWithMySqlApplication.class
+com\springsecurity\mysqldb\SecurityWithMySql\controller\ApplicationController.class
+com\springsecurity\mysqldb\SecurityWithMySql\repository\MyUserDetail.class
